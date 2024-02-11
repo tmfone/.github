@@ -1,6 +1,6 @@
 ## Welcome! 👋
 
-We're a crew committed to crafting tools that fuel the cutting-edge business models of tomorrow. We're all about open source and the electric energy of community to spark innovation. We're constantly on the lookout for fresh minds to hop on board and help us shape ideas into real world applications.
+We're a dedicated team focused on developing tools that drive the business models of the future. We're passionate about both open-source initiatives and proprietary partnerships, aiming for mutually beneficial collaborations. We're always seeking fresh perspectives to join us and transform ideas into impactful real-world applications.
 
 <!--
 

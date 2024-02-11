@@ -1,4 +1,6 @@
-## Hi there 👋
+## Welcome! 👋
+
+We're a crew committed to crafting tools that fuel the cutting-edge business models of tomorrow. We're all about open source and the electric energy of community to spark innovation. We're constantly on the lookout for fresh minds to hop on board and help us shape ideas into real world applications.
 
 <!--
 

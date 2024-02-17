@@ -1,6 +1,6 @@
 ## Welcome! 👋
 
-We're a dedicated team focused on developing tools that drive the business models of the future. We're passionate about both open-source initiatives and proprietary partnerships, aiming for mutually beneficial collaborations. We're always seeking fresh perspectives to join us and transform ideas into impactful real-world applications.
+At tmf.one, we wholeheartedly embrace technology’s power for positive transformation. As a forward-thinking consulting and development firm, we thrive on solving intricate problems with cutting-edge technology. 💡🚀
 
 <!--
 
